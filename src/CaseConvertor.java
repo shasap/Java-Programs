@@ -6,8 +6,6 @@ public class CaseConvertor {
         System.out.println("Uppercase alphabet before converting is "+uppercase+".");
 
 
-        //uppercase = lowercase;
-        //System.out.println("Uppercase alphabet after converting is "+uppercase+".");
 
         char lowercase = Character.toLowerCase(uppercase);
         System.out.println("Uppercase alphabet after converting is "+lowercase+".");
